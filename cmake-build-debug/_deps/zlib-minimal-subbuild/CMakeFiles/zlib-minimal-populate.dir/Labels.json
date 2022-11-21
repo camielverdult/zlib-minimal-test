@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/Users/camiel-private/Documents/GitHub/zlib-minimal-test/cmake-build-debug/_deps/zlib-minimal-subbuild/CMakeFiles/zlib-minimal-populate"
+		},
+		{
+			"file" : "/Users/camiel-private/Documents/GitHub/zlib-minimal-test/cmake-build-debug/_deps/zlib-minimal-subbuild/CMakeFiles/zlib-minimal-populate.rule"
+		},
+		{
+			"file" : "/Users/camiel-private/Documents/GitHub/zlib-minimal-test/cmake-build-debug/_deps/zlib-minimal-subbuild/CMakeFiles/zlib-minimal-populate-complete.rule"
+		},
+		{
+			"file" : "/Users/camiel-private/Documents/GitHub/zlib-minimal-test/cmake-build-debug/_deps/zlib-minimal-subbuild/zlib-minimal-populate-prefix/src/zlib-minimal-populate-stamp/zlib-minimal-populate-build.rule"
+		},
+		{
+			"file" : "/Users/camiel-private/Documents/GitHub/zlib-minimal-test/cmake-build-debug/_deps/zlib-minimal-subbuild/zlib-minimal-populate-prefix/src/zlib-minimal-populate-stamp/zlib-minimal-populate-configure.rule"
+		},
+		{
+			"file" : "/Users/camiel-private/Documents/GitHub/zlib-minimal-test/cmake-build-debug/_deps/zlib-minimal-subbuild/zlib-minimal-populate-prefix/src/zlib-minimal-populate-stamp/zlib-minimal-populate-download.rule"
+		},
+		{
+			"file" : "/Users/camiel-private/Documents/GitHub/zlib-minimal-test/cmake-build-debug/_deps/zlib-minimal-subbuild/zlib-minimal-populate-prefix/src/zlib-minimal-populate-stamp/zlib-minimal-populate-install.rule"
+		},
+		{
+			"file" : "/Users/camiel-private/Documents/GitHub/zlib-minimal-test/cmake-build-debug/_deps/zlib-minimal-subbuild/zlib-minimal-populate-prefix/src/zlib-minimal-populate-stamp/zlib-minimal-populate-mkdir.rule"
+		},
+		{
+			"file" : "/Users/camiel-private/Documents/GitHub/zlib-minimal-test/cmake-build-debug/_deps/zlib-minimal-subbuild/zlib-minimal-populate-prefix/src/zlib-minimal-populate-stamp/zlib-minimal-populate-patch.rule"
+		},
+		{
+			"file" : "/Users/camiel-private/Documents/GitHub/zlib-minimal-test/cmake-build-debug/_deps/zlib-minimal-subbuild/zlib-minimal-populate-prefix/src/zlib-minimal-populate-stamp/zlib-minimal-populate-test.rule"
+		},
+		{
+			"file" : "/Users/camiel-private/Documents/GitHub/zlib-minimal-test/cmake-build-debug/_deps/zlib-minimal-subbuild/zlib-minimal-populate-prefix/src/zlib-minimal-populate-stamp/zlib-minimal-populate-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"zlib-minimal-populate"
+		],
+		"name" : "zlib-minimal-populate"
+	}
+}
