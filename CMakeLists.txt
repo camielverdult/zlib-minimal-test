@@ -24,6 +24,8 @@ FetchContent_MakeAvailable(zlib-minimal googletest)
 
 include_directories(${zlib-minimal_SOURCE_DIR})
 
+add_compile_options(-Wall -Wextra -Wpedantic -Werror -fno-omit-frame-pointer)
+
 add_executable(zlib_minimal_test main.cpp)
 
 target_link_libraries(zlib_minimal_test zlib-minimal gtest_main)
