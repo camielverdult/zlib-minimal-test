@@ -1,3 +1,0 @@
-/Users/camiel-private/Documents/GitHub/zlib-minimal-test/cmake-build-debug/_deps/zlib-minimal-subbuild/CMakeFiles/zlib-minimal-populate.dir
-/Users/camiel-private/Documents/GitHub/zlib-minimal-test/cmake-build-debug/_deps/zlib-minimal-subbuild/CMakeFiles/edit_cache.dir
-/Users/camiel-private/Documents/GitHub/zlib-minimal-test/cmake-build-debug/_deps/zlib-minimal-subbuild/CMakeFiles/rebuild_cache.dir

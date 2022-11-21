@@ -1,3 +1,0 @@
-repository='https://github.com/camielverdult/zlib-minimal.git'
-module=''
-tag='origin'
