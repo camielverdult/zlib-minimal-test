@@ -59,3 +59,7 @@ cmake-build-*
 
 # MacOS files
 .DS_Store
+
+# Test files
+*.gz
+*_decompressed*
