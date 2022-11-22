@@ -3,7 +3,7 @@
 #include <filesystem>
 #include <fstream>
 
-#include "zpipe.c"
+#include "zpipe.h"
 #include <gtest/gtest.h>
 
 TEST(zlib_minimal, full) {
